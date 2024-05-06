@@ -1,0 +1,8 @@
+{
+  "name": "timestables",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^5.2.9",
+    "typescript": "*"
+  }
+}
